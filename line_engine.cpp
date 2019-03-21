@@ -17,6 +17,7 @@ string computer2(int tour_number){
 }
 
 void generateTour(int tour_number){
+    //TODO: initialize Area
     x = 0;
     y = 0;
     if (tour_number == 1){
